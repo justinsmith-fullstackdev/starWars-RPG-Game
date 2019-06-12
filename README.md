@@ -1,10 +1,10 @@
 ## Star Wars RPG Game
 
-![Star Wars](Images/2-StarWars.jpg)
+![Star Wars](images/2-StarWars.jpg)
 
 1. Click the Link to play the game: .
 
-## Description\
+## Description
 
 This is a full stack web application built with React and is powered by Node and Express. This application uses the New York Times API to search for articles within a certain publication date range. When results are populated, a user can save an article to MongoDB database, which is rendered on the Saved Articles page. Saved articles may be deleted as well.
 
