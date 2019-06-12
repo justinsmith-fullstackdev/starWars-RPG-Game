@@ -2,7 +2,7 @@
 
 ![Star Wars](images/2-StarWars.jpg)
 
-1. Click the Link to play the game: https://justinsmith-fullstackdev.github.io/starWars/
+1. Click the Link to play the game: https://justinsmith-fullstackdev.github.io/starWars-RPG-Game/
 
 ## Getting Started
 
